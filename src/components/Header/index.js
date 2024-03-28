@@ -36,7 +36,7 @@ const Header = props => {
           <Link to="/">
             <img
               className="website-logo"
-              src="https://assets.ccbp.in/frontend/react-js/nxt-trendz-logo-img.png"
+              src="https://img.freepik.com/premium-photo/trending-text-with-arrow-effect-modern-sleek-font-style-creative-live-stream-background-idea_1020495-77492.jpg?"
               alt="website logo"
             />
           </Link>
